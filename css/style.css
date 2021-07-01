@@ -1,0 +1,30 @@
+.panda-slide .carousel-item{
+    background: #fceae8;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.panda{
+    border: 0px;
+}
+.footer-panda{
+    border: 0;
+    background: white;
+}
+.bg-2{
+    background: orchid;
+}
+.bcolor{
+    background-color: #da2c43;
+}
+.pan{
+    color: red;
+}
+.bg-1{
+    background: #fd7e14;
+}
+.ex{
+    background:  #fceae8;;
+}
